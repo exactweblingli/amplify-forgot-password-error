@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-autoforgotpassword4-dev-214217-authRole",
+      "UnauthRoleArn": "arn:aws:iam::781247566436:role/amplify-autoforgotpassword4-dev-214217-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::781247566436:role/amplify-autoforgotpassword4-dev-214217-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-autoforgotpassword4-dev-214217-deployment",
+      "UnauthRoleName": "amplify-autoforgotpassword4-dev-214217-unauthRole",
+      "StackName": "amplify-autoforgotpassword4-dev-214217",
+      "StackId": "arn:aws:cloudformation:us-east-1:781247566436:stack/amplify-autoforgotpassword4-dev-214217/0111d6e0-06ac-11eb-9786-0e8a861a6983",
+      "AmplifyAppId": "d2wtmglv2sj7tg"
+    },
+    "categories": {
+      "auth": {
+        "autoforgotpassword40e212e11": {}
+      }
+    }
+  }
+}
